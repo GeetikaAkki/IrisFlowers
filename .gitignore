@@ -9,3 +9,4 @@ myenv/
 myenv/*
 .vscode/
 data/
+.ipynb_checkpoints/
